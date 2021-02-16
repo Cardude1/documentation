@@ -70,7 +70,7 @@ If you are looking for a low-cost option to try out Picroft, we can recommend th
 | Matrix | Voice | Working | Mic array |  |
 | PlayStation | Eye \(PS3 Eye\) | Working | Mic and camera | An excellent introductory model if you are just checking Picroft out. |
 | Seeed Studio | Mic Array 2.0 | Working | Mic array | Premium microphone array |
-
+| YicoGomo | USB Conference Microphone | Working | Mic | |
 If you experience any audio problems, please see the [Audio Troubleshooting Guide](../troubleshooting/audio-troubleshooting.md).
 
 {% page-ref page="../troubleshooting/audio-troubleshooting.md" %}
